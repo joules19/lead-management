@@ -1,0 +1,162 @@
+[
+  {
+    "id": "lead_001",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "status": "Qualified",
+    "createdAt": "2025-12-15T10:30:00Z",
+    "notes": "Interested in enterprise plan. Follow up next week regarding custom pricing and implementation timeline."
+  },
+  {
+    "id": "lead_002",
+    "name": "Michael Chen",
+    "email": "michael.chen@techcorp.io",
+    "status": "New",
+    "createdAt": "2026-01-18T14:22:00Z",
+    "notes": "Requested demo for team of 50. Works in fintech sector. High priority lead."
+  },
+  {
+    "id": "lead_003",
+    "name": "Emily Rodriguez",
+    "email": "e.rodriguez@startup.com",
+    "status": "Contacted",
+    "createdAt": "2026-01-17T09:15:00Z",
+    "notes": "Called yesterday. Interested in starter plan. Scheduled follow-up call for Thursday 2PM."
+  },
+  {
+    "id": "lead_004",
+    "name": "David Thompson",
+    "email": "david.t@consulting.co.uk",
+    "status": "Lost",
+    "createdAt": "2025-11-20T16:45:00Z",
+    "notes": "Went with competitor due to pricing. Keep in contact for future opportunities."
+  },
+  {
+    "id": "lead_005",
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@healthcare.org",
+    "status": "Qualified",
+    "createdAt": "2026-01-10T11:00:00Z",
+    "notes": "Healthcare sector lead. HIPAA compliance confirmed. Ready to proceed with contract."
+  },
+  {
+    "id": "lead_006",
+    "name": "James Wilson",
+    "email": "j.wilson@ecommerce.net",
+    "status": "Contacted",
+    "createdAt": "2026-01-16T13:30:00Z",
+    "notes": "E-commerce business owner. Interested in integration with Shopify. Sent technical documentation."
+  },
+  {
+    "id": "lead_007",
+    "name": "Maria Garcia",
+    "email": "maria.garcia@design.studio",
+    "status": "New",
+    "createdAt": "2026-01-18T08:45:00Z",
+    "notes": "Creative agency looking for collaboration tools. Budget approved for Q1."
+  },
+  {
+    "id": "lead_008",
+    "name": "Robert Kim",
+    "email": "robert.kim@logistics.com",
+    "status": "Contacted",
+    "createdAt": "2026-01-15T10:20:00Z",
+    "notes": "Logistics company with 200+ employees. Scheduling product demo for next Monday."
+  },
+  {
+    "id": "lead_009",
+    "name": "Jennifer Lee",
+    "email": "jennifer.lee@edu.university.ac",
+    "status": "Qualified",
+    "createdAt": "2025-12-28T14:00:00Z",
+    "notes": "Educational institution. Approved budget for annual subscription. Finalizing paperwork."
+  },
+  {
+    "id": "lead_010",
+    "name": "Daniel Brown",
+    "email": "dan.brown@manufacturing.com",
+    "status": "Lost",
+    "createdAt": "2025-10-05T09:30:00Z",
+    "notes": "Decided to build in-house solution. Friendly relationship maintained for future needs."
+  },
+  {
+    "id": "lead_011",
+    "name": "Amanda White",
+    "email": "amanda.white@marketing.agency",
+    "status": "New",
+    "createdAt": "2026-01-17T15:10:00Z",
+    "notes": "Marketing agency referral. Interested in white-label solution. High conversion potential."
+  },
+  {
+    "id": "lead_012",
+    "name": "Christopher Martin",
+    "email": "chris.martin@realestate.com",
+    "status": "Contacted",
+    "createdAt": "2026-01-14T11:45:00Z",
+    "notes": "Real estate firm. Discussed CRM integration needs. Awaiting technical specifications from their team."
+  },
+  {
+    "id": "lead_013",
+    "name": "Patricia Taylor",
+    "email": "p.taylor@nonprofit.org",
+    "status": "Qualified",
+    "createdAt": "2026-01-08T13:20:00Z",
+    "notes": "Nonprofit organization. Approved for special pricing. Contract signed, onboarding scheduled."
+  },
+  {
+    "id": "lead_014",
+    "name": "Kevin Harris",
+    "email": "kevin.harris@saas.startup",
+    "status": "New",
+    "createdAt": "2026-01-18T16:30:00Z",
+    "notes": "SaaS startup founder. Interested in API access for integration. Technical call requested."
+  },
+  {
+    "id": "lead_015",
+    "name": "Michelle Davis",
+    "email": "m.davis@financial.services",
+    "status": "Contacted",
+    "createdAt": "2026-01-13T10:00:00Z",
+    "notes": "Financial services company. Compliance review in progress. Decision expected by end of month."
+  },
+  {
+    "id": "lead_016",
+    "name": "Thomas Moore",
+    "email": "thomas.moore@travel.agency",
+    "status": "Lost",
+    "createdAt": "2025-09-15T12:00:00Z",
+    "notes": "Budget constraints due to seasonal business model. Expressed interest for next year."
+  },
+  {
+    "id": "lead_017",
+    "name": "Sandra Martinez",
+    "email": "sandra.m@media.company",
+    "status": "New",
+    "createdAt": "2026-01-17T17:00:00Z",
+    "notes": "Media company looking for content management features. Webinar registration completed."
+  },
+  {
+    "id": "lead_018",
+    "name": "William Jackson",
+    "email": "w.jackson@insurance.co",
+    "status": "Qualified",
+    "createdAt": "2026-01-05T09:00:00Z",
+    "notes": "Insurance company with established budget. Legal review complete. Ready to sign this week."
+  },
+  {
+    "id": "lead_019",
+    "name": "Karen Thompson",
+    "email": "karen.t@restaurant.group",
+    "status": "Contacted",
+    "createdAt": "2026-01-16T14:15:00Z",
+    "notes": "Restaurant group expanding operations. Interested in multi-location support. Demo scheduled Friday."
+  },
+  {
+    "id": "lead_020",
+    "name": "Brian Wilson",
+    "email": "brian.wilson@automotive.dealer",
+    "status": "New",
+    "createdAt": "2026-01-18T12:00:00Z",
+    "notes": "Automotive dealership network. Initial inquiry about customer relationship features. Following up tomorrow."
+  }
+]
